@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier Alejandro Ruíz Díaz</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-<h3 align="center">👨‍💻 Frontend Programmer 🌐 Web Developer 🎨 UI/UX Designer 🌐 Web Developer 🎨 UI/UX Designer</h3>
+<h3 align="center">👨‍💻 Frontend Programmer 🌐 Web Developer 🎨 UI/UX Designer</h3>
 <h4 align='justify'>Hi! 👋 I'm Javier, a passionate frontend programmer with a passion for creating beautiful and functional web experiences. I'm proud to be a part of the exciting world of web development.</h4>
 
 
