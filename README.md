@@ -6,10 +6,10 @@
 
 <h3>Featured Skills</h3>
 <p>
-Languages and Technologies: HTML5, CSS3, JavaScript (ES6+)
-Frameworks & Libraries: React, Bootstrap, CSS, SASS
-Interface Design: UI/UX Design
-Version Control: Git, GitHub
+Languages and Technologies: HTML5, CSS3, JavaScript (ES6+)<br>
+Frameworks & Libraries: React, Bootstrap, CSS, SASS<br>
+Interface Design: UI/UX Design<br>
+Version Control: Git, GitHub<br>
 Development Tools: VS Code
 </p>
 
