@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Javier Alejandro Ruíz Díaz</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-<h3 align="center">👨‍💻 Frontend Programmer 🌐 Web Developer 🎨 UI/UX Designer 🌐 Web Developer 🎨 UI/UX Designer
+<h3 align="center">👨‍💻 Frontend Programmer 🌐 Web Developer 🎨 UI/UX Designer 🌐 Web Developer 🎨 UI/UX Designer</h3>
+<h4 align='justify'>Hi! 👋 I'm Javier, a passionate frontend programmer with a passion for creating beautiful and functional web experiences. I'm proud to be a part of the exciting world of web development.</h4>
 
-Hi! 👋 I'm [Your Name], a passionate frontend programmer with a passion for creating beautiful and functional web experiences. I'm proud to be a part of the exciting world of web development.
 
-Featured Skills
+<h3>Featured Skills</h3>
+<p>
 Languages and Technologies: HTML5, CSS3, JavaScript (ES6+)
 Frameworks & Libraries: React, Bootstrap, CSS, SASS
 Interface Design: UI/UX Design
 Version Control: Git, GitHub
 Development Tools: VS Code
+</p>
 
-
-Featured Projects
-[Personal Journal] - [https://javier1793-op.github.io/diaryPersonal/]: Personal blog diary. with adventure design.
+<h3>Featured Projects</h3>
+<p>
+[Personal Journal] - [https://javier1793-op.github.io/diaryPersonal/]: Personal blog diary. with adventure design. <br>
 [Anime] - [https://javier1793-op.github.io/anime/]: Page about your favorite anime
-
+</p>
+<p>
 I'm excited for what the future has in store for web development and creating amazing experiences! Feel free to contact me for collaborations, job opportunities or just to talk tech.
-
+</p>
+<h3 align="center">
 Thanks for visiting my GitHub profile! 🚀
 </h3>
 
