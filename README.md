@@ -1,5 +1,26 @@
 <h1 align="center">Hi 👋, I'm Javier Alejandro Ruíz Díaz</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">👨‍💻 Frontend Programmer 🌐 Web Developer 🎨 UI/UX Designer 🌐 Web Developer 🎨 UI/UX Designer
+
+Hi! 👋 I'm [Your Name], a passionate frontend programmer with a passion for creating beautiful and functional web experiences. I'm proud to be a part of the exciting world of web development.
+
+Featured Skills
+Languages and Technologies: HTML5, CSS3, JavaScript (ES6+)
+Frameworks & Libraries: React, Bootstrap, CSS, SASS
+Interface Design: UI/UX Design
+Version Control: Git, GitHub
+Development Tools: VS Code
+
+
+Featured Projects
+[Personal Journal] - [https://javier1793-op.github.io/diaryPersonal/]: Personal blog diary. with adventure design.
+[Anime] - [https://javier1793-op.github.io/anime/]: Page about your favorite anime
+
+I'm excited for what the future has in store for web development and creating amazing experiences! Feel free to contact me for collaborations, job opportunities or just to talk tech.
+
+Thanks for visiting my GitHub profile! 🚀
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javier1793-op&label=Profile%20views&color=0e75b6&style=flat" alt="javier1793-op" /> </p>
 
